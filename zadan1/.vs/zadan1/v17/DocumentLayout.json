@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AAAAAAAAAAAAAAAAAAA\\zadan1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{402027C7-F5FC-4CA6-B6DF-59B2024FCD2E}|zadan1\\zadan1.vcxproj|D:\\AAAAAAAAAAAAAAAAAAA\\zadan1\\zadan1\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{402027C7-F5FC-4CA6-B6DF-59B2024FCD2E}|zadan1\\zadan1.vcxproj|solutionrelative:zadan1\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402027C7-F5FC-4CA6-B6DF-59B2024FCD2E}|zadan1\\zadan1.vcxproj|D:\\AAAAAAAAAAAAAAAAAAA\\zadan1\\zadan1\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{402027C7-F5FC-4CA6-B6DF-59B2024FCD2E}|zadan1\\zadan1.vcxproj|solutionrelative:zadan1\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402027C7-F5FC-4CA6-B6DF-59B2024FCD2E}|zadan1\\zadan1.vcxproj|D:\\AAAAAAAAAAAAAAAAAAA\\zadan1\\zadan1\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{402027C7-F5FC-4CA6-B6DF-59B2024FCD2E}|zadan1\\zadan1.vcxproj|solutionrelative:zadan1\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402027C7-F5FC-4CA6-B6DF-59B2024FCD2E}|zadan1\\zadan1.vcxproj|D:\\AAAAAAAAAAAAAAAAAAA\\zadan1\\zadan1\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{402027C7-F5FC-4CA6-B6DF-59B2024FCD2E}|zadan1\\zadan1.vcxproj|solutionrelative:zadan1\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAAAAAAAA\\zadan1\\zadan1\\Form1.h",
+              "RelativeDocumentMoniker": "zadan1\\Form1.h",
+              "ToolTip": "D:\\AAAAAAAAAAAAAAAAAAA\\zadan1\\zadan1\\Form1.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "zadan1\\Form1.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-09T22:32:59.363Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.h",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAAAAAAAA\\zadan1\\zadan1\\Form1.h",
+              "RelativeDocumentMoniker": "zadan1\\Form1.h",
+              "ToolTip": "D:\\AAAAAAAAAAAAAAAAAAA\\zadan1\\zadan1\\Form1.h",
+              "RelativeToolTip": "zadan1\\Form1.h",
+              "ViewState": "AQIAAHgBAAAAAAAAAAAkwJUBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-09T22:25:10.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAAAAAAAA\\zadan1\\zadan1\\MyForm.h",
+              "RelativeDocumentMoniker": "zadan1\\MyForm.h",
+              "ToolTip": "D:\\AAAAAAAAAAAAAAAAAAA\\zadan1\\zadan1\\MyForm.h",
+              "RelativeToolTip": "zadan1\\MyForm.h",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAGAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-09T22:26:24.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\AAAAAAAAAAAAAAAAAAA\\zadan1\\zadan1\\MyForm.h",
+              "RelativeDocumentMoniker": "zadan1\\MyForm.h",
+              "ToolTip": "D:\\AAAAAAAAAAAAAAAAAAA\\zadan1\\zadan1\\MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "zadan1\\MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-09T22:26:14.198Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

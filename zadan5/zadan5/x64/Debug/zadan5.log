@@ -1,0 +1,9 @@
+﻿  CppCLR_WinFormsProject.cpp
+D:\AAAAAAAAAAAAAAAAAAA\zadan5\zadan5\Form1.h(560,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+D:\AAAAAAAAAAAAAAAAAAA\zadan5\zadan5\Form1.h(542,6): warning C4101: n: неиспользованная локальная переменная
+  (компиляция исходного файла "/CppCLR_WinFormsProject.cpp")
+  
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  zadan5.vcxproj -> D:\AAAAAAAAAAAAAAAAAAA\zadan5\x64\Debug\zadan5.exe

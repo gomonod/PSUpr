@@ -1,0 +1,4 @@
+﻿  CppCLR_WinFormsProject.cpp
+D:\AAAAAAAAAAAAAAAAAAA\zadan2\zadan2\Form1.h(212,1): warning C4700: использована неинициализированная локальная переменная "a"
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  zadan2.vcxproj -> D:\AAAAAAAAAAAAAAAAAAA\zadan2\x64\Debug\zadan2.exe

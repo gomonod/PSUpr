@@ -1,0 +1,3 @@
+D:\AAAAAAAAAAAAAAAAAAA\zadan2\zadan2\x64\Debug\zadan2.vcxproj.AssemblyReference.cache
+D:\AAAAAAAAAAAAAAAAAAA\zadan2\zadan2\x64\Debug\zadan2.Form1.resources
+D:\AAAAAAAAAAAAAAAAAAA\zadan2\zadan2\x64\Debug\zadan2.vcxproj.GenerateResource.cache
